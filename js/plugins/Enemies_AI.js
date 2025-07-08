@@ -6,7 +6,7 @@
 
 (function () {
   const fs = require('fs');
-  const pathDatos = "C:/Users/joshu/Desktop/DEMOTESIS1/js/datos_reales.json";
+  const pathDatos = "C:/Users/joshu/Desktop/DEMOTESIS_JOSHUA_UX/js/datos_reales.json";
 
   const RNEATActions = {
     0: 1,   // Ataque
@@ -127,7 +127,7 @@
       try {
         const { execSync } = require('child_process');
         console.log("🧠 Entrenando modelo NEAT...");
-        execSync('python "C:/Users/joshu/Desktop/DEMOTESIS1/AI_model_josh.py"', { stdio: 'inherit' });
+        execSync('python "C:/Users/joshu/Desktop/DEMOTESIS_JOSHUA_UX/AI_model_josh.py"', { stdio: 'inherit' });
         console.log("✅ Modelo entrenado");
 
         const entradas = [
@@ -145,7 +145,7 @@
           $gameVariables.value(23)
         );
 
-        ultimaSalidaRed = evaluarRedNEAT(entradas, "C:/Users/joshu/Desktop/DEMOTESIS1/js/rneat_model.json");
+        ultimaSalidaRed = evaluarRedNEAT(entradas, "C:/Users/joshu/Desktop/DEMOTESIS_JOSHUA_UX/js/rneat_model.json");
       } catch (error) {
         console.error("❌ Error al entrenar/evaluar:", error);
       }

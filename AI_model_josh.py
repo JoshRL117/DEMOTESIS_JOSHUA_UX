@@ -9,7 +9,7 @@ def softmax(x):
     return e_x / e_x.sum()
 
 # === Cargar datos reales desde JSON ===
-def cargar_datos_reales(path="C:/Users/joshu/Desktop/DEMOTESIS1/js/datos_reales.json"):
+def cargar_datos_reales(path="C:/Users/joshu/Desktop/DEMOTESIS_JOSHUA_UX/js/datos_reales.json"):
     with open(path, 'r') as f:
         return json.load(f)
 
