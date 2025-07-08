@@ -1,0 +1,122 @@
+[
+  {
+    "entradas": [
+      680,
+      0,
+      23,
+      15
+    ],
+    "vida_party_antes": 744,
+    "vida_party_despues": 670,
+    "vida_enemigos_antes": 290,
+    "vida_enemigos_despues": 158
+  },
+  {
+    "entradas": [
+      862,
+      0,
+      29,
+      18
+    ],
+    "vida_party_antes": 616,
+    "vida_party_despues": 488,
+    "vida_enemigos_antes": 400,
+    "vida_enemigos_despues": 170
+  },
+  {
+    "entradas": [
+      981,
+      0,
+      34,
+      21
+    ],
+    "vida_party_antes": 369,
+    "vida_party_despues": 369,
+    "vida_enemigos_antes": 1000,
+    "vida_enemigos_despues": 911
+  },
+  {
+    "entradas": [
+      1028,
+      1,
+      39,
+      24
+    ],
+    "vida_party_antes": 328,
+    "vida_party_despues": 328,
+    "vida_enemigos_antes": 816,
+    "vida_enemigos_despues": 793
+  },
+  {
+    "entradas": [
+      1092,
+      1,
+      43,
+      27
+    ],
+    "vida_party_antes": 264,
+    "vida_party_despues": 264,
+    "vida_enemigos_antes": 777,
+    "vida_enemigos_despues": 987
+  },
+  {
+    "entradas": [
+      1148,
+      1,
+      48,
+      30
+    ],
+    "vida_party_antes": 489,
+    "vida_party_despues": 433,
+    "vida_enemigos_antes": 962,
+    "vida_enemigos_despues": 873
+  },
+  {
+    "entradas": [
+      1148,
+      1,
+      49,
+      33
+    ],
+    "vida_party_antes": 635,
+    "vida_party_despues": 635,
+    "vida_enemigos_antes": 1000,
+    "vida_enemigos_despues": 1000
+  },
+  {
+    "entradas": [
+      1288,
+      1,
+      54,
+      36
+    ],
+    "vida_party_antes": 524,
+    "vida_party_despues": 495,
+    "vida_enemigos_antes": 814,
+    "vida_enemigos_despues": 639
+  },
+  {
+    "entradas": [
+      1380,
+      1,
+      57,
+      39
+    ],
+    "vida_party_antes": 431,
+    "vida_party_despues": 403,
+    "vida_enemigos_antes": 552,
+    "vida_enemigos_despues": 450
+  },
+  {
+    "entradas": [
+      1465,
+      1,
+      60,
+      42
+    ],
+    "vida_party_antes": 375,
+    "vida_party_despues": 318,
+    "vida_enemigos_antes": 294,
+    "vida_enemigos_despues": 179
+  }
+]
